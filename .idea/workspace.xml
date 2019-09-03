@@ -2,10 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2cd7da92-fbae-49dc-9b3a-335e1f437c08" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/findLongestWord.py" beforeDir="false" afterPath="$PROJECT_DIR$/findLongestWord.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Advanced_Programming/CompressionDecompression.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Foundations_of_Programming/collapseDuplicates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Foundations_of_Programming/makeBricks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Foundations_of_Programming/minesweeper.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/GoogleDev.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/canBalance.java" beforeDir="false" afterPath="$PROJECT_DIR$/Foundations_of_Programming/canBalance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/findLongestWord.py" beforeDir="false" afterPath="$PROJECT_DIR$/Foundations_of_Programming/findLongestWord.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interpret.py" beforeDir="false" afterPath="$PROJECT_DIR$/Foundations_of_Programming/interpret.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maxSpan.java" beforeDir="false" afterPath="$PROJECT_DIR$/Foundations_of_Programming/maxSpan.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sort.java" beforeDir="false" afterPath="$PROJECT_DIR$/Foundations_of_Programming/sort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sumNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/Foundations_of_Programming/sumNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/Foundations_of_Programming/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/withoutString.java" beforeDir="false" afterPath="$PROJECT_DIR$/Foundations_of_Programming/withoutString.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,10 +29,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/findLongestWord.py">
+        <entry file="file://$PROJECT_DIR$/Advanced_Programming/CompressionDecompression.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="551">
-              <caret line="140" column="32" lean-forward="true" selection-start-line="140" selection-start-column="32" selection-end-line="140" selection-end-column="32" />
+            <state relative-caret-position="285">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
             </state>
           </provider>
         </entry>
@@ -41,13 +54,14 @@
       <list>
         <option value="$PROJECT_DIR$/test.py" />
         <option value="$PROJECT_DIR$/findLongestWord.py" />
+        <option value="$PROJECT_DIR$/Advanced_Programming/CompressionDecompression.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="910" />
-    <option name="width" value="938" />
-    <option name="height" value="1089" />
+    <option name="width" value="939" />
+    <option name="height" value="1090" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -56,7 +70,25 @@
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="GoogleTechDev" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GoogleTechDev" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GoogleTechDev" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GoogleTechDev" type="462c0819:PsiDirectoryNode" />
+              <item name="Advanced_Programming" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -84,7 +116,29 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.findLongestWord (1)">
+    <configuration name="findLongestWord (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="GoogleDev" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Foundations_of_Programming" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Foundations_of_Programming/findLongestWord.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="findLongestWord" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="GoogleDev" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -109,6 +163,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.findLongestWord (1)" />
         <item itemvalue="Python.findLongestWord" />
       </list>
     </recent_temporary>
@@ -127,21 +182,22 @@
       <workItem from="1567198928418" duration="5912000" />
       <workItem from="1567210492174" duration="3659000" />
       <workItem from="1567223967752" duration="603000" />
+      <workItem from="1567495421071" duration="747000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17231000" />
+    <option name="totallyTimeSpent" value="17978000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="728" y="0" width="750" height="871" extended-state="0" />
+    <frame x="728" y="0" width="751" height="872" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.33197832" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3310811" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.47184986" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -151,8 +207,8 @@
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Terminal" order="11" weight="0.32841823" />
-      <window_info active="true" anchor="bottom" id="Python Console" order="12" visible="true" weight="0.32746956" />
-      <window_info anchor="right" content_ui="combo" id="Project" order="0" weight="0.24963924" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.32658568" />
+      <window_info anchor="right" content_ui="combo" id="Project" order="0" weight="0.3044733" />
       <window_info anchor="right" id="SciView" order="1" />
       <window_info anchor="right" id="Database" order="2" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="3" type="SLIDING" weight="0.4" />
@@ -163,29 +219,9 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/findLongestWord.py</url>
-          <line>178</line>
-          <option name="timeStamp" value="6" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/findLongestWord.py</url>
-          <line>169</line>
-          <option name="timeStamp" value="7" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/findLongestWord.py</url>
-          <line>173</line>
-          <option name="timeStamp" value="9" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
-  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/GoogleDev$findLongestWord.coverage" NAME="findLongestWord Coverage Results" MODIFIED="1567163423294" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/GoogleTechDev$findLongestWord__1_.coverage" NAME="findLongestWord (1) Coverage Results" MODIFIED="1567495497018" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Foundations_of_Programming" />
     <SUITE FILE_PATH="coverage/GoogleTechDev$findLongestWord.coverage" NAME="findLongestWord Coverage Results" MODIFIED="1567212520580" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="editorHistoryManager">
@@ -208,8 +244,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/findLongestWord.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="551">
+        <state relative-caret-position="2660">
           <caret line="140" column="32" lean-forward="true" selection-start-line="140" selection-start-column="32" selection-end-line="140" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Foundations_of_Programming/findLongestWord.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="46" column="18" lean-forward="true" selection-start-line="46" selection-start-column="18" selection-end-line="46" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Advanced_Programming/CompressionDecompression.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
         </state>
       </provider>
     </entry>
